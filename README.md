@@ -2,7 +2,7 @@
 
 ## I am FrontEnd Developer -- keen learner
 
-- 🔭 I’m currently working on pointers.
+- 🔭 I’m currently working at [Pointers][company].
 - 🌱 I’m currently learning new technology.
 - 🥅 2022 Goals: Contribute to Open Source projects.
 - 📚 Practicing Typescript,NextJS.
@@ -67,3 +67,4 @@
 [youtube]: https://www.youtube.com/channel/UCRMOQ2LTZOzdWrkF5lnXqkQ
 [instagram]: https://www.instagram.com/aamnazaidiii/
 [linkedin]: https://www.linkedin.com/in/amna12/
+[company]:https://pointers.me/
