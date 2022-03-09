@@ -1,6 +1,6 @@
 ### Hola, I'm Amna Tahzeeb - tahzeeb 👋
 
-#### I am FrontEnd Developer -- keen learner
+## I am FrontEnd Developer -- keen learner
 
 - 🔭 I’m currently working on pointers.
 - 🌱 I’m currently learning new technology.
@@ -29,7 +29,6 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
 />
 <img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" 
