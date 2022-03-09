@@ -41,6 +41,27 @@
 <br />
 <br />
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Testimonials Grid Section using CSS grid | FrontendMentor challange |](https://www.youtube.com/watch?v=XrcUWxFRUd4)
+- [Intro component with sign-up form | How to make form validation using HTML CSS &amp; JavaScript |](https://www.youtube.com/watch?v=kCwckE7GQnA)
+- [How to design navbar using html css and jQuery](https://www.youtube.com/watch?v=u1Fkue7Uo_M)
+- [Card hover multi-button using HTML &amp; CSS | Hover effect |](https://www.youtube.com/watch?v=-dUttorPZqQ)
+- [Huddle landing page | Frontendmentor Challenge | How to make a website using HTML and CSS |](https://www.youtube.com/watch?v=dtWjObFkYJw)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCRMOQ2LTZOzdWrkF5lnXqkQ)
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amnatahzeeb&show_icons=true&hide_border=true" />
+
+</details>
+
 
 [twitter]: https://twitter.com/AmnaTahzeeb
 [youtube]: https://www.youtube.com/channel/UCRMOQ2LTZOzdWrkF5lnXqkQ
