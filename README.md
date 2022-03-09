@@ -7,7 +7,7 @@
 - 📚 Practicing Typescript,NextJS.
 - 👯 I’m looking to collaborate on youtube.
 - ⚡ Fun fact:Giving roadmap to others and I love to talk foreigners.
-- - 🥅 2022 Goals: Contribute to Open Source projects.
+- 🥅 2022 Goals: Contribute to Open Source projects.
 
 
 ### Connect with me:
