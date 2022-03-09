@@ -1,4 +1,4 @@
-### Hola, I'm Amna Tahzeeb - tahzeeb 👋
+### Hola, I'm Amna Tahzeeb - aka codeDev👋
 
 ## I am FrontEnd Developer -- keen learner
 
